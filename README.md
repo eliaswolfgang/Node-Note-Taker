@@ -3,11 +3,11 @@ A simple note-taking application built using Express and Node.js
 
 ## Table of Contents
 
-*[Description](#description)  
-*[Installation](#installation)  
-*[License](#license)  
-*[Testing](#testing)  
-*[Demo & Deployment](#deployment)
+* [Description](#description)  
+* [Installation](#installation)  
+* [License](#license)  
+* [Testing](#testing)  
+* [Demo & Deployment](#deployment)
 
 ## Description
 This note-taking application utilizes Express.js to deliver a dynamic full-stack application capable of storing and deleting user input as notes, formatted in a simple HTML page.
