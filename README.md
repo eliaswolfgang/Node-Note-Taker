@@ -5,8 +5,8 @@ A simple note-taking application built using Express and Node.js
 
 *[Description](#description)  
 *[Installation](#installation)  
-*[License](#license)
-*[Testing](#testing)
+*[License](#license)  
+*[Testing](#testing)  
 *[Demo & Deployment](#deployment)
 
 ## Description
